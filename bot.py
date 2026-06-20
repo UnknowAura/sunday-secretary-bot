@@ -45,7 +45,7 @@ async def buy(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 if __name__ == '__main__':
     # ใส่ Token ใหม่ล่าสุดตรงนี้
-    TOKEN = '8860362270:AAHD3n2fXrFb7b7OXyobPhSaIYCQmrN0UgE'
+    TOKEN = '8860362270:AAGEc91eAoFTjaMymwovDElTsODkLBsUCMM'
     
     application = ApplicationBuilder().token(TOKEN).build()
     
